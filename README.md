@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **My ML journey, learning roadmap, or how I stay consistent as a self-learner.**
 
-- 📄 Know about my experiences [Currently a self-taught ML learner practicing daily. Sharing everything I build as I go.](Currently a self-taught ML learner practicing daily. Sharing everything I build as I go.)
+- 📄 Know about my experiences Currently a self-taught ML learner practicing daily. Sharing everything I build as I go.
 
 - ⚡ Fun fact **💫 When I’m not debugging or building ML models, you’ll probably find me binge-watching sci-fi series and dreaming of building Jarvis someday.**
 
